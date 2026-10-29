@@ -1,0 +1,27 @@
+# 密钥
+.env
+*.pem
+*.key
+
+# 数据库与索引
+data/shop.db
+data/shop.db-shm
+data/shop.db-wal
+chroma_db/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# 运行日志
+*.log
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store

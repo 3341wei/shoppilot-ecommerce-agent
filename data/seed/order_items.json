@@ -1,0 +1,10 @@
+[
+  {"order_id": "SO20261001001", "product_id": "P1001", "title": "静音降噪蓝牙耳机 Pro", "price": 499, "qty": 1},
+  {"order_id": "SO20261001002", "product_id": "P2001", "title": "轻量缓震跑步鞋", "price": 399, "qty": 1},
+  {"order_id": "SO20261001003", "product_id": "P1002", "title": "轻量运动蓝牙耳机", "price": 299, "qty": 1},
+  {"order_id": "SO20261001004", "product_id": "P3001", "title": "记忆棉护颈枕", "price": 149, "qty": 2},
+  {"order_id": "SO20261001005", "product_id": "P1004", "title": "10000mAh 磁吸充电宝", "price": 169, "qty": 1},
+  {"order_id": "SO20261001006", "product_id": "P1001", "title": "静音降噪蓝牙耳机 Pro", "price": 499, "qty": 1},
+  {"order_id": "SO20261001007", "product_id": "P2004", "title": "户外防风冲锋衣", "price": 459, "qty": 1},
+  {"order_id": "SO20261001008", "product_id": "P1002", "title": "轻量运动蓝牙耳机", "price": 299, "qty": 1}
+]

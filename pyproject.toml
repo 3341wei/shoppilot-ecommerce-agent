@@ -1,0 +1,13 @@
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+extend-exclude = ["chroma_db", ".venv", "venv", "__pycache__", "data"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+# B008：FastAPI 的 Depends 惯用写法，属于框架约定
+ignore = ["E501", "UP009", "B008"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

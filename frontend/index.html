@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ShopPilot · 电商业务智能体</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%9B%8D%EF%B8%8F%3C/text%3E%3C/svg%3E"
+    />
+  </head>
+  <body>
+    <div class="app">
+      <header class="topbar">
+        <div class="brand">
+          <span class="brand-icon">🛍️</span>
+          <div>
+            <h1>ShopPilot</h1>
+            <p class="brand-sub">电商业务智能体</p>
+          </div>
+        </div>
+
+        <div class="role-switch" role="group" aria-label="切换角色">
+          <button type="button" class="role-btn" data-role="buyer">买家</button>
+          <button type="button" class="role-btn" data-role="operator">运营</button>
+        </div>
+
+        <div class="topbar-actions">
+          <button type="button" id="newSessionBtn" class="icon-btn" title="新会话">＋ 新会话</button>
+          <button type="button" id="settingsBtn" class="icon-btn" title="设置">⚙ 设置</button>
+        </div>
+      </header>
+
+      <div class="statusbar">
+        <span id="statusDot" class="status-dot"></span>
+        <span id="statusText">检查服务状态…</span>
+      </div>
+
+      <main id="chat" class="chat" aria-live="polite"></main>
+
+      <footer class="composer">
+        <div class="composer-box">
+          <textarea
+            id="question"
+            rows="1"
+            maxlength="2000"
+            placeholder="问点什么…"
+            aria-label="输入问题"
+          ></textarea>
+          <div class="composer-actions">
+            <button type="button" id="stopBtn" class="btn ghost hidden">停止</button>
+            <button type="button" id="sendBtn" class="btn primary">发送</button>
+          </div>
+        </div>
+        <p class="composer-hint">Enter 发送 · Shift + Enter 换行 · 写操作会先生成确认单，确认后才落库</p>
+      </footer>
+    </div>
+
+    <dialog id="settingsDialog" class="dialog">
+      <form method="dialog" class="dialog-body">
+        <h2>连接设置</h2>
+        <p class="muted">
+          本地演示可留空 API Key（后端未配置 <code>API_KEYS</code> 时会跳过鉴权）。身份用于数据权限校验。
+        </p>
+
+        <label class="field">
+          <span>API Key</span>
+          <input id="apiKeyInput" type="password" autocomplete="off" placeholder="可选，X-API-Key" />
+        </label>
+        <label class="field">
+          <span>用户 ID</span>
+          <input id="userIdInput" type="text" autocomplete="off" placeholder="u_buyer_001 / u_ops_001" />
+        </label>
+
+        <div class="dialog-actions">
+          <button type="button" id="clearKeyBtn" class="btn ghost">清除 Key</button>
+          <span class="spacer"></span>
+          <button type="button" id="closeSettingsBtn" class="btn ghost">取消</button>
+          <button type="button" id="saveSettingsBtn" class="btn primary">保存</button>
+        </div>
+      </form>
+    </dialog>
+
+    <script type="module" src="/static/app.js"></script>
+  </body>
+</html>

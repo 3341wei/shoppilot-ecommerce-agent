@@ -1,0 +1,7 @@
+[
+  {"user_id": "u_buyer_001", "coupon_id": "C001", "used": 0},
+  {"user_id": "u_buyer_001", "coupon_id": "C002", "used": 0},
+  {"user_id": "u_buyer_001", "coupon_id": "C003", "used": 0},
+  {"user_id": "u_buyer_001", "coupon_id": "C005", "used": 0},
+  {"user_id": "u_buyer_002", "coupon_id": "C002", "used": 0}
+]

@@ -1,0 +1,22 @@
+# 与参考项目保持同一套已验证版本，避免 Agent 行为随版本漂移
+langchain==1.4.6
+langchain-core==1.6.12
+langchain-openai==1.7.2
+langgraph==1.2.16
+
+# 向量库
+chromadb==1.5.9
+
+# Web 后端
+fastapi==0.143.3
+uvicorn[standard]==0.54.0
+pydantic==2.14.1
+pydantic-settings==2.16.0
+
+# 模型与 HTTP
+openai==3.33.0
+requests==2.34.2
+python-dotenv==1.2.4
+
+# 关键词检索
+rank-bm25==0.2.2

@@ -1,0 +1,449 @@
+[
+  {
+    "id": "P1001",
+    "title": "静音降噪蓝牙耳机 Pro",
+    "category": "数码",
+    "brand": "声悦",
+    "price": 499,
+    "original_price": 599,
+    "stock": 700,
+    "sales_7d": 210,
+    "rating": 4.8,
+    "sales_total": 12000,
+    "tags": [
+      "主动降噪",
+      "蓝牙5.3",
+      "40小时续航",
+      "入耳式"
+    ],
+    "attributes": {
+      "颜色": "曜石黑 / 云雾白",
+      "连接": "蓝牙 5.3",
+      "续航": "40 小时",
+      "降噪": "主动降噪 42dB"
+    },
+    "description": "通勤和办公场景的降噪耳机，支持双设备连接，单次续航 10 小时，配合充电盒 40 小时。",
+    "sku_summary": "曜石黑 / 云雾白",
+    "image": "🎧",
+    "special": true
+  },
+  {
+    "id": "P1002",
+    "title": "轻量运动蓝牙耳机",
+    "category": "数码",
+    "brand": "声悦",
+    "price": 299,
+    "original_price": 399,
+    "stock": 420,
+    "sales_7d": 160,
+    "rating": 4.7,
+    "sales_total": 8600,
+    "tags": [
+      "运动",
+      "防汗",
+      "挂耳式",
+      "轻量"
+    ],
+    "attributes": {
+      "颜色": "星空黑 / 荧光绿",
+      "连接": "蓝牙 5.3",
+      "续航": "24 小时",
+      "防水": "IPX5"
+    },
+    "description": "挂耳式运动耳机，跑步不易掉落，IPX5 防汗，适合日常健身和户外跑步。",
+    "sku_summary": "星空黑 / 荧光绿",
+    "image": "🏃",
+    "special": true
+  },
+  {
+    "id": "P1003",
+    "title": "65W 氮化镓充电器",
+    "category": "数码",
+    "brand": "迅能",
+    "price": 129,
+    "original_price": 159,
+    "stock": 0,
+    "sales_7d": 90,
+    "rating": 4.9,
+    "sales_total": 5400,
+    "tags": [
+      "氮化镓",
+      "65W",
+      "多口",
+      "便携"
+    ],
+    "attributes": {
+      "功率": "65W",
+      "接口": "2C1A",
+      "颜色": "白色"
+    },
+    "description": "一个充电器同时给笔记本、手机、耳机充电，体积比传统充电器小 40%。",
+    "sku_summary": "白色",
+    "image": "🔌",
+    "special": false
+  },
+  {
+    "id": "P1004",
+    "title": "10000mAh 磁吸充电宝",
+    "category": "数码",
+    "brand": "迅能",
+    "price": 169,
+    "original_price": 199,
+    "stock": 40,
+    "sales_7d": 130,
+    "rating": 4.6,
+    "sales_total": 4200,
+    "tags": [
+      "磁吸",
+      "10000mAh",
+      "无线充",
+      "轻薄"
+    ],
+    "attributes": {
+      "容量": "10000mAh",
+      "无线充": "15W",
+      "有线": "20W",
+      "颜色": "灰色"
+    },
+    "description": "磁吸无线充电宝，吸附即充，支持边充边用，适合通勤和短途出行。",
+    "sku_summary": "灰色",
+    "image": "🔋",
+    "special": false
+  },
+  {
+    "id": "P1005",
+    "title": "智能手环 6 代",
+    "category": "数码",
+    "brand": "迈动",
+    "price": 239,
+    "original_price": 299,
+    "stock": 260,
+    "sales_7d": 100,
+    "rating": 4.5,
+    "sales_total": 3300,
+    "tags": [
+      "心率",
+      "睡眠监测",
+      "14天续航",
+      "防水"
+    ],
+    "attributes": {
+      "屏幕": "1.47 英寸 AMOLED",
+      "续航": "14 天",
+      "防水": "5ATM",
+      "颜色": "黑色 / 粉色"
+    },
+    "description": "支持心率、血氧、睡眠监测，14 天续航，适合日常健康管理。",
+    "sku_summary": "黑色 / 粉色",
+    "image": "⌚",
+    "special": true
+  },
+  {
+    "id": "P1006",
+    "title": "机械键盘 87 键",
+    "category": "数码",
+    "brand": "键客",
+    "price": 359,
+    "original_price": 429,
+    "stock": 8,
+    "sales_7d": 20,
+    "rating": 4.8,
+    "sales_total": 1800,
+    "tags": [
+      "机械键盘",
+      "87键",
+      "热插拔",
+      "RGB"
+    ],
+    "attributes": {
+      "轴体": "红轴 / 茶轴",
+      "连接": "有线 / 蓝牙 / 2.4G",
+      "键位": "87 键",
+      "灯效": "RGB"
+    },
+    "description": "紧凑 87 键布局，支持热插拔换轴，三模连接，适合办公与游戏。",
+    "sku_summary": "红轴 / 茶轴",
+    "image": "⌨️",
+    "special": false
+  },
+  {
+    "id": "P2001",
+    "title": "轻量缓震跑步鞋",
+    "category": "运动户外",
+    "brand": "逐风",
+    "price": 399,
+    "original_price": 499,
+    "stock": 900,
+    "sales_7d": 300,
+    "rating": 4.8,
+    "sales_total": 21000,
+    "tags": [
+      "缓震",
+      "新手",
+      "透气",
+      "轻量"
+    ],
+    "attributes": {
+      "鞋面": "透气网布",
+      "中底": "EVA 缓震",
+      "重量": "约 260g",
+      "适用": "5-10km 慢跑"
+    },
+    "description": "为入门跑者设计的缓震跑鞋，落地柔和，鞋面透气，适合 5-10 公里日常慢跑。",
+    "sku_summary": "39-45 码 / 黑白 / 灰蓝",
+    "image": "👟",
+    "special": false
+  },
+  {
+    "id": "P2002",
+    "title": "专业竞速跑鞋",
+    "category": "运动户外",
+    "brand": "逐风",
+    "price": 699,
+    "original_price": 899,
+    "stock": 150,
+    "sales_7d": 60,
+    "rating": 4.7,
+    "sales_total": 4600,
+    "tags": [
+      "碳板",
+      "竞速",
+      "回弹",
+      "马拉松"
+    ],
+    "attributes": {
+      "鞋面": "一体织",
+      "中底": "碳板 + 超临界发泡",
+      "重量": "约 210g",
+      "适用": "半马 / 全马"
+    },
+    "description": "碳板竞速跑鞋，回弹推进感强，适合有训练基础的跑者参加半马或全马。",
+    "sku_summary": "39-44 码 / 竞速红 / 碳黑",
+    "image": "🏅",
+    "special": false
+  },
+  {
+    "id": "P2003",
+    "title": "速干透气运动 T 恤",
+    "category": "运动户外",
+    "brand": "逐风",
+    "price": 99,
+    "original_price": 129,
+    "stock": 600,
+    "sales_7d": 220,
+    "rating": 4.6,
+    "sales_total": 9800,
+    "tags": [
+      "速干",
+      "透气",
+      "运动",
+      "基础款"
+    ],
+    "attributes": {
+      "面料": "聚酯纤维",
+      "版型": "宽松",
+      "颜色": "黑 / 白 / 蓝",
+      "尺码": "S-XXL"
+    },
+    "description": "轻量速干面料，出汗后快速排湿，适合跑步、健身和日常通勤。",
+    "sku_summary": "S-XXL / 黑 / 白 / 蓝",
+    "image": "👕",
+    "special": true
+  },
+  {
+    "id": "P2004",
+    "title": "户外防风冲锋衣",
+    "category": "运动户外",
+    "brand": "山野",
+    "price": 459,
+    "original_price": 599,
+    "stock": 200,
+    "sales_7d": 80,
+    "rating": 4.7,
+    "sales_total": 5600,
+    "tags": [
+      "防风",
+      "防水",
+      "三合一",
+      "户外"
+    ],
+    "attributes": {
+      "防水等级": "10000mm",
+      "内胆": "可拆卸抓绒",
+      "颜色": "军绿 / 黑色",
+      "尺码": "S-XXL"
+    },
+    "description": "三合一冲锋衣，外壳防风防水，可拆卸抓绒内胆，适合春秋徒步与露营。",
+    "sku_summary": "S-XXL / 军绿 / 黑色",
+    "image": "🧥",
+    "special": false
+  },
+  {
+    "id": "P2005",
+    "title": "瑜伽垫加厚防滑",
+    "category": "运动户外",
+    "brand": "静心",
+    "price": 89,
+    "original_price": 119,
+    "stock": 200,
+    "sales_7d": 70,
+    "rating": 4.5,
+    "sales_total": 3900,
+    "tags": [
+      "加厚",
+      "防滑",
+      "瑜伽",
+      "TPE"
+    ],
+    "attributes": {
+      "厚度": "8mm",
+      "材质": "TPE",
+      "尺寸": "183×61cm",
+      "颜色": "紫色 / 灰色"
+    },
+    "description": "8mm 加厚 TPE 瑜伽垫，双面防滑，适合瑜伽、普拉提和居家拉伸。",
+    "sku_summary": "紫色 / 灰色",
+    "image": "🧘",
+    "special": false
+  },
+  {
+    "id": "P2006",
+    "title": "登山徒步双肩包 30L",
+    "category": "运动户外",
+    "brand": "山野",
+    "price": 269,
+    "original_price": 329,
+    "stock": 0,
+    "sales_7d": 40,
+    "rating": 4.8,
+    "sales_total": 2200,
+    "tags": [
+      "30L",
+      "登山",
+      "徒步",
+      "背负系统"
+    ],
+    "attributes": {
+      "容量": "30L",
+      "重量": "约 900g",
+      "背负": "透气网架",
+      "颜色": "深灰 / 橙色"
+    },
+    "description": "30L 徒步背包，透气网架背负系统，适合 1-2 日轻装徒步。",
+    "sku_summary": "深灰 / 橙色",
+    "image": "🎒",
+    "special": false
+  },
+  {
+    "id": "P3001",
+    "title": "记忆棉护颈枕",
+    "category": "家居",
+    "brand": "眠好",
+    "price": 149,
+    "original_price": 199,
+    "stock": 300,
+    "sales_7d": 110,
+    "rating": 4.7,
+    "sales_total": 7200,
+    "tags": [
+      "记忆棉",
+      "护颈",
+      "慢回弹",
+      "可拆洗"
+    ],
+    "attributes": {
+      "材质": "慢回弹记忆棉",
+      "高度": "10cm / 12cm",
+      "枕套": "可拆洗",
+      "颜色": "白色"
+    },
+    "description": "慢回弹记忆棉护颈枕，贴合颈椎曲线，适合久坐和睡眠质量不佳的人群。",
+    "sku_summary": "低枕 10cm / 高枕 12cm",
+    "image": "🛏️",
+    "special": true
+  },
+  {
+    "id": "P3002",
+    "title": "香薰加湿器 4L",
+    "category": "家居",
+    "brand": "眠好",
+    "price": 199,
+    "original_price": 259,
+    "stock": 250,
+    "sales_7d": 95,
+    "rating": 4.6,
+    "sales_total": 3100,
+    "tags": [
+      "加湿",
+      "香薰",
+      "静音",
+      "4L"
+    ],
+    "attributes": {
+      "容量": "4L",
+      "续航": "约 30 小时",
+      "噪音": "<30dB",
+      "颜色": "米白"
+    },
+    "description": "4L 大容量香薰加湿器，静音运行，适合卧室和书房，支持定时与夜灯。",
+    "sku_summary": "米白",
+    "image": "💧",
+    "special": false
+  },
+  {
+    "id": "P3003",
+    "title": "折叠收纳箱 3 件套",
+    "category": "家居",
+    "brand": "简居",
+    "price": 79,
+    "original_price": 109,
+    "stock": 150,
+    "sales_7d": 0,
+    "rating": 4.4,
+    "sales_total": 900,
+    "tags": [
+      "折叠",
+      "收纳",
+      "三件套",
+      "塑料"
+    ],
+    "attributes": {
+      "数量": "3 件套",
+      "容量": "30L / 55L / 80L",
+      "材质": "PP",
+      "颜色": "奶白"
+    },
+    "description": "可折叠收纳箱三件套，不用时可压扁收纳，适合衣柜、后备箱整理。",
+    "sku_summary": "奶白 / 3 件套",
+    "image": "📦",
+    "special": false
+  },
+  {
+    "id": "P3004",
+    "title": "全棉四件套 1.8m",
+    "category": "家居",
+    "brand": "简居",
+    "price": 329,
+    "original_price": 459,
+    "stock": 120,
+    "sales_7d": 50,
+    "rating": 4.8,
+    "sales_total": 6100,
+    "tags": [
+      "全棉",
+      "四件套",
+      "1.8m床",
+      "亲肤"
+    ],
+    "attributes": {
+      "材质": "100% 棉",
+      "规格": "1.8m 床",
+      "支数": "60 支",
+      "颜色": "豆沙 / 灰蓝"
+    },
+    "description": "60 支全棉四件套，亲肤透气，适合 1.8 米床，含被套、床单、枕套×2。",
+    "sku_summary": "1.8m / 豆沙 / 灰蓝",
+    "image": "🧺",
+    "special": true
+  }
+]
